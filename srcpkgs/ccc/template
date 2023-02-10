@@ -1,0 +1,21 @@
+# Template file for 'ccc'
+pkgname=ccc
+version=1.0.0
+revision=1
+build_style=meta
+depends="
+	chrony
+	git
+	github-cli
+	keepassxc
+	keybase-desktop
+	ripgrep
+	u2f-hidraw-policy
+	vim-huge-python3
+	vsv
+	xtools
+	"
+short_desc="CCC meta package"
+maintainer="Caleb Case <calebcase@gmail.com>"
+license="Public Domain"
+homepage="https://github.com/calebcase/void-packages"
