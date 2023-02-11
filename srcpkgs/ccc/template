@@ -14,6 +14,9 @@ depends="
 	vim-huge-python3
 	vsv
 	xtools
+	zoom
+	slack-desktop
+	void-repo-nonfree
 	"
 short_desc="CCC meta package"
 maintainer="Caleb Case <calebcase@gmail.com>"
