@@ -5,18 +5,19 @@ revision=1
 build_style=meta
 depends="
 	chrony
+	flatpak
 	git
 	github-cli
 	keepassxc
 	keybase-desktop
 	ripgrep
+	slack-desktop
 	u2f-hidraw-policy
 	vim-huge-python3
+	void-repo-nonfree
 	vsv
 	xtools
 	zoom
-	slack-desktop
-	void-repo-nonfree
 	"
 short_desc="CCC meta package"
 maintainer="Caleb Case <calebcase@gmail.com>"
