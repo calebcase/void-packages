@@ -5,13 +5,22 @@ revision=1
 build_style=meta
 depends="
 	chrony
+	cronie
+	delve
+	docker
 	flatpak
 	git
 	github-cli
+	go
+	i3
 	keepassxc
 	keybase-desktop
+	nerd-fonts
+	nodejs
 	ripgrep
+	setxkbmap
 	slack-desktop
+	starship
 	u2f-hidraw-policy
 	vim-huge-python3
 	void-repo-nonfree
