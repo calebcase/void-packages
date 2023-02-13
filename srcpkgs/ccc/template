@@ -7,16 +7,19 @@ depends="
 	chrony
 	cronie
 	delve
+	dmenu
 	docker
 	flatpak
 	git
 	github-cli
 	go
 	i3
+	i3status
 	keepassxc
 	keybase-desktop
 	nerd-fonts
 	nodejs
+	pavucontrol
 	ripgrep
 	setxkbmap
 	slack-desktop
