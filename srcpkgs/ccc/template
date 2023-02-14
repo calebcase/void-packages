@@ -10,6 +10,8 @@ depends="
 	dmenu
 	docker
 	flatpak
+	font-awesome
+	font-go-ttf
 	git
 	github-cli
 	go
@@ -19,6 +21,10 @@ depends="
 	keybase-desktop
 	nerd-fonts
 	nodejs
+	noto-fonts-cjk
+	noto-fonts-emoji
+	noto-fonts-ttf
+	noto-fonts-ttf-extra
 	pavucontrol
 	ripgrep
 	setxkbmap
