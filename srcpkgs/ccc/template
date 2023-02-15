@@ -11,6 +11,7 @@ depends="
 	chrony
 	cronie
 	delve
+	direnv
 	dmenu
 	docker
 	flatpak
@@ -22,6 +23,7 @@ depends="
 	i3
 	i3status
 	intel-ucode
+	jq
 	keepassxc
 	keybase-desktop
 	linux-firmware
@@ -37,6 +39,7 @@ depends="
 	slack-desktop
 	socklog
 	starship
+	tlp
 	u2f-hidraw-policy
 	vim-huge-python3
 	void-repo-nonfree
