@@ -9,7 +9,6 @@ license="Public Domain"
 homepage="https://github.com/calebcase/void-packages"
 depends="
   NoiseTorch
-  arandr
   bluez
   chrony
   cronie
