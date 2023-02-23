@@ -9,6 +9,7 @@ license="Public Domain"
 homepage="https://github.com/calebcase/void-packages"
 depends="
   NoiseTorch
+  bind-utils
   bluez
   chrony
   cronie
@@ -16,6 +17,8 @@ depends="
   direnv
   dmenu
   docker
+  docker-buildx
+  flameshot
   flatpak
   font-awesome
   font-go-ttf
@@ -41,6 +44,8 @@ depends="
   noto-fonts-ttf-extra
   pasystray
   pavucontrol
+  pnpm
+  postgresql15-client
   ripgrep
   setxkbmap
   slack-desktop
@@ -55,5 +60,6 @@ depends="
   vsv
   xtitle
   xtools
+  yarn
   zoom
   "
