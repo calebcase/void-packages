@@ -23,6 +23,7 @@ depends="
   font-awesome
   font-go-ttf
   fwupd
+  gimp
   git
   github-cli
   go
