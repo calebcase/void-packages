@@ -2,7 +2,7 @@
 pkgname=ccc
 version=1.0.3
 revision=1
-build_style=meta
+metapackage=yes
 short_desc="CCC meta package"
 maintainer="Caleb Case <calebcase@gmail.com>"
 license="Public Domain"
@@ -46,7 +46,7 @@ depends="
   pasystray
   pavucontrol
   pnpm
-  postgresql15-client
+  postgresql-client
   ripgrep
   setxkbmap
   slack-desktop
